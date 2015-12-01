@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <AppPickerPreference
+        android:key="app_1"
+        android:title="Top Left Favorite App"
+        android:defaultValue="net.skwh.simplelauncher" />
+    <AppPickerPreference
+        android:key="app_2"
+        android:title="Top Right Favorite App"
+        android:defaultValue="net.skwh.simplelauncher" />
+    <AppPickerPreference
+        android:key="app_3"
+        android:title="Middle Left Favorite App"
+        android:defaultValue="net.skwh.simplelauncher" />
+    <AppPickerPreference
+        android:key="app_4"
+        android:title="Middle Right Favorite App"
+        android:defaultValue="net.skwh.simplelauncher" />
+    <AppPickerPreference
+        android:key="app_5"
+        android:title="Bottom Left Favorite App"
+        android:defaultValue="net.skwh.simplelauncher" />
+    <AppPickerPreference
+        android:key="app_6"
+        android:title="Bottom Right Favorite App"
+        android:defaultValue="net.skwh.simplelauncher" />
+</PreferenceScreen>
